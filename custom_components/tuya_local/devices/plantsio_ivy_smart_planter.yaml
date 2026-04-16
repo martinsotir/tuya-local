@@ -78,8 +78,7 @@ entities:
             value: "Dehydrated"
           - value: "Unknown state"
   - entity: sensor
-    name: Light status
-    icon: "mdi:brightness-5"
+    translation_key: light_status
     class: enum
     dps:
       - id: 138

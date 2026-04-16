@@ -43,8 +43,7 @@ entities:
           - dps_val: 3
             value: Auto
   - entity: switch
-    name: Radio
-    icon: "mdi:radio"
+    translation_key: radio
     dps:
       - id: 105
         type: boolean
